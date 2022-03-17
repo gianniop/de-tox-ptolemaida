@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/de-tox-ptolemaida/static/css/main.baa840f3.css",
-    "main.js": "/de-tox-ptolemaida/static/js/main.02a92f1f.js",
+    "main.css": "/de-tox-ptolemaida/static/css/main.725c103d.css",
+    "main.js": "/de-tox-ptolemaida/static/js/main.55d5b85d.js",
     "static/js/787.c50d2929.chunk.js": "/de-tox-ptolemaida/static/js/787.c50d2929.chunk.js",
     "index.html": "/de-tox-ptolemaida/index.html",
-    "main.baa840f3.css.map": "/de-tox-ptolemaida/static/css/main.baa840f3.css.map",
-    "main.02a92f1f.js.map": "/de-tox-ptolemaida/static/js/main.02a92f1f.js.map",
+    "main.725c103d.css.map": "/de-tox-ptolemaida/static/css/main.725c103d.css.map",
+    "main.55d5b85d.js.map": "/de-tox-ptolemaida/static/js/main.55d5b85d.js.map",
     "787.c50d2929.chunk.js.map": "/de-tox-ptolemaida/static/js/787.c50d2929.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.baa840f3.css",
-    "static/js/main.02a92f1f.js"
+    "static/css/main.725c103d.css",
+    "static/js/main.55d5b85d.js"
   ]
 }
